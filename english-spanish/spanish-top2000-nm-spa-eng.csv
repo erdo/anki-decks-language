@@ -1,0 +1,454 @@
+el año,year,(nm) no.55 Top0500,1
+el tiempo,"time (general), weather",(nm) no.68 Top0500,2
+el día,day,(nm) no.71 Top0500,3
+el hombre,"man, mankind, husband",(nm) no.80 Top0500,4
+el momento,moment,(nm) no.108 Top0500 ,5
+el mundo,world,(nm) no.118 Top0500,6
+el caso,"case (situation), occasion",(nm) no.130 Top0500,7
+el país,country,(nm) no.133 Top0500,8
+el lugar,position (location),(nm) no.135 Top0500,9
+el trabajo,"job, effort",(nm) no.145 Top0500,10
+el punto,"point, dot, period",(nm) no.147 Top0500,11
+el fin,end,(nm) no.156 Top0500,12
+el tipo,"kind, type",(nm) no.157 Top0500 ,13
+el ejemplo,example,(nm) no.162 Top0500,14
+el lado,side,(nm) no.165 Top0500,15
+el hijo,"son, [pl] children",(nm) no.166 Top0500,16
+el problema,problem,(nm) no.169 Top0500,17
+el medio,middle,(nm) no.171 Top0500,18
+el niño,"child, little boy",(nm) no.178 Top0500,19
+el padre,father,(nm) no.182 Top0500,20
+el cambio,change,(nm) no.186 Top0500,21
+el modo,manner,(nm) no.198 Top0500,22
+el nombre,name,(nm) no.199 Top0500,23
+el mes,month,(nm) no.210 Top0500,24
+el grupo,group,(nm) no.216 Top0500,25
+el cuerpo,body,(nm) no.232 Top0500,26
+el hecho,"the fact, a happening/event",(nm) no.235 Top0500,27
+el principio,principle,(nm) no.237 Top0500,28
+el señor,"sir, Mr., lord",(nm) no.240 Top0500,29
+el pueblo,"people, village",(nm) no.241 Top0500,30
+el ojo,eye,(nm) no.247 Top0500,31
+el libro,book,(nm) no.253 Top0500,32
+el santo,saint,(nm) no.258 Top0500,33
+el frente,facing; across from,(nmf) no.260 Top0500,34
+el amigo,friend,(nm) no.262 Top0500,35
+el sentido,"sense, feeling",(nm) no.265 Top0500,36
+el paso,"step, pace",(nm) no.267 Top0500,37
+el siglo,"century, age",(nm) no.273 Top0500,38
+el dios,"god, divinity",(nm) no.274 Top0500,39
+el papel,"paper, role/part",(nm) no.277 Top0500,40
+el tema,"theme, subject, topic",(nm) no.283 Top0500,41
+el dinero,money,(nm) no.291 Top0500,42
+el campo,"field, countryside",(nm) no.295 Top0500,43
+el orden,"sequence, order",(nmf) no.302 Top0500,44
+el don,"courtesy title (m), Mr., gift",(nm) no.303 Top0500,45
+el final,finally,(nmf) no.307 Top0500,46
+el interés,interest,(nm) no.308 Top0500,47
+el acuerdo,agreement,(nm) no.313 Top0500,48
+el número,number,(nm) no.315 Top0500,49
+el fondo,"bottom, end",(nm) no.318 Top0500,50
+el camino,"road, route, path",(nm) no.319 Top0500,51
+el estudio,"study, learning",(nm) no.321 Top0500,52
+el valor,"value, worth",(nm) no.326 Top0500,53
+el centro,"center, middle, downtown",(nm) no.339 Top0500,54
+el estado,"state, condition, status",(nm) no.351 Top0500 nb,55
+el ser,being,(nm) no.352 Top0500,56
+el color,color,(nm) no.359 Top0500,57
+el movimiento,movement,(nm) no.362 Top0500,58
+el pesar,sorrow,(nm) no.366 Top0500,59
+el juego,"game, sport",(nm) no.371 Top0500,60
+el aire,"appearance, wind",(nm) no.374 Top0500,61
+el resultado,"result, outcome",(nm) no.379 Top0500,62
+el aspecto,"appearance, aspect",(nm) no.385 Top0500,63
+el pie,"foot, base",(nm) no.386 Top0500,64
+el servicio,"service, helpfulness",(nm) no.390 Top0500,65
+el peso,"weight, load",(nm) no.417 Top0500,66
+el efecto,effect,(nm) no.418 Top0500,67
+el objeto,"object, thing",(nm) no.419 Top0500 nb,68
+el amor,love,(nm) no.423 Top0500,69
+el partido,"group/party, sports match",(nm) no.425 Top0500,70
+el derecho,"right, justice, law",(nm) no.427 Top0500,71
+el poder,power,(nm) no.428 Top0500,72
+el sistema,system,(nm) no.430 Top0500,73
+el viaje,voyage,(nm) no.431 Top0500,74
+el suelo,"ground, floor",(nm) no.432 Top0500,75
+el respecto,respect,(nm) no.433 Top0500,76
+el conocimiento,knowledge,(nm) no.434 Top0500,77
+el esfuerzo,"effort, endeavor",(nm) no.444 Top0500,78
+el resto,"remainder, leftover, rest",(nm) no.447 Top0500,79
+el ladrón,thief,(nm) no.449 Top0500,80
+el miedo,fear,(nm) no.450 Top0500,81
+el temor,fear,(nm) no.450 Top0500,82
+el proceso,"process, procedure",(nm) no.452 Top0500,83
+el minuto,minute,(nm) no.459 Top0500,84
+el programa,program,(nm) no.467 Top0500,85
+el favor,"favor, benefit",(nm) no.468 Top0500,86
+el espacio,"room, space",(nm) no.474 Top0500,87
+el nivel,level,(nm) no.475 Top0500,88
+el gobierno,government,(nm) no.476 Top0500,89
+el cabo,end,(nm) no.477 Top0500,90
+el animal,animal,(nm) no.497 Top0500,91
+el motivo,"motive, cause",(nm) no.504 Top1000,92
+el dato,"fact, data",(nm) no.513 Top1000,93
+el asunto,"matter, issue",(nm) no.518 Top1000,94
+el carácter,"personality, nature",(nm) no.530 Top1000,95
+el autor,author,(nm/f) no.538 Top1000,96
+el hermano,brother,(nm) no.539 Top1000,97
+el río,river,(nm) no.559 Top1000,98
+el término,end,(nm) no.561 Top1000,99
+el metro,"meter (unit of measure), subway",(nm) no.563 Top1000,100
+el médico,doctor,(nm/f) no.564 Top1000,101
+el arte,"art, skill",(nm) no.567 Top1000,102
+el acto,"act, action",(nm) no.572 Top1000,103
+el segundo,second (time),(nm) no.577 Top1000,104
+el deseo,"desire, wish",(nm) no.579 Top1000,105
+el sueño,"dream, sleep",(nm) no.583 Top1000,106
+el producto,product,(nm) no.589 Top1000,107
+el gusto,"pleasure, taste, preference",(nm) no.593 Top1000,108
+el plan,plan,(nm) no.598 Top1000,109
+el proyecto,project,(nm) no.604 Top1000,110
+el origen,"origin, cause",(nm) no.606 Top1000,111
+el elemento,element,(nm) no.607 Top1000,112
+el mercado,market,(nm) no.609 Top1000,113
+el curso,"course, direction",(nm) no.610 Top1000,114
+el interior,interior,(nm) no.614 Top1000,115
+el uso,use,(nm) no.619 Top1000,116
+el brazo,arm,(nm) no.620 Top1000,117
+el profesor,"professor, teacher",(nm/f) no.621 Top1000,118
+el futuro,future,(nm) no.623 Top1000,119
+el recuerdo,"memory, keepsake",(nm) no.628 Top1000,120
+el mar,sea,(nmf) no.645 Top1000,121
+el contacto,contact,(nm) no.648 Top1000,122
+el corazón,"heart, core",(nm) no.649 Top1000,123
+el capital,"capital city, money",(nmf) no.651 Top1000,124
+el título,"title, heading",(nm) no.653 Top1000,125
+el cuarto,"room, chamber",(nm) no.655 Top1000,126
+el material,material,(nm) no.656 Top1000,127
+el golpe,"hit, strike, punch",(nm) no.657 Top1000,128
+el bien,"goods, property, benefit",(nm) no.667 Top1000,129
+el sitio,place,(nm) no.672 Top1000,130
+el ambiente,"environment, atmosphere",(nm) no.683 Top1000,131
+el desarrollo,development,(nm) no.685 Top1000,132
+el sol,sun,(nm) no.686 Top1000,133
+el compañero,"companion, classmate",(nm) no.693 Top1000,134
+el dolor,"pain, ache, sorrow",(nm) no.705 Top1000,135
+el estilo,style,(nm) no.707 Top1000,136
+el precio,"price, cost, value",(nm) no.708 Top1000,137
+el personaje,character (e.g. movie),(nm) no.712 Top1000,138
+el éxito,success,(nm) no.714 Top1000,139
+el edificio,building,(nm) no.717 Top1000,140
+el conjunto,"group, set",(nm) no.721 Top1000,141
+el espíritu,"spirit, ghost",(nm) no.731 Top1000,142
+el miembro,"limb, member",(nm) no.732 Top1000,143
+el recurso,means,(nm) no.735 Top1000,144
+el equipo,"team, equipment, outfit",(nm) no.737 Top1000,145
+el error,"error, mistake",(nm) no.738 Top1000,146
+el propósito,"intention, purpose",(nm) no.752 Top1000,147
+el cuidado,"care, carefulness",(nm) no.754 Top1000,148
+el puesto,"job, position",(nm) no.755 Top1000,149
+el grado,"degree, grade",(nm) no.756 Top1000,150
+el jefe,manager,(nm/f) no.761 Top1000,151
+el periódico,newspaper,(nm) no.765 Top1000,152
+el par,"pair, couple",(nmf) no.768 Top1000,153
+el público,"public, audience",(nm) no.769 Top1000,154
+el tamaño,"size, dimension",(nm) no.776 Top1000,155
+el doctor,doctor,(nm/f) no.778 Top1000,156
+el cuadro,"painting, picture",(nm) no.779 Top1000,157
+el caballo,horse,(nm) no.780 Top1000,158
+el detalle,detail,(nm) no.784 Top1000,159
+el pensamiento,"thought, thinking",(nm) no.789 Top1000,160
+el cargo,"charge, fee",(nm) no.791 Top1000,161
+el juicio,judgment,(nm) no.795 Top1000,162
+el terreno,"ground, earth, terrain",(nm) no.796 Top1000,163
+el piso,"floor, story",(nm) no.797 Top1000,164
+el texto,text,(nm) no.800 Top1000,165
+el presente,present (time),(nm) no.802 Top1000,166
+el instrumento,instrument,(nm) no.813 Top1000,167
+el director,director (manager),(nm/f) no.816 Top1000,168
+el artículo,"article, product, item",(nm) no.819 Top1000,169
+el radio,"radio set (m), radio communication (f)",(nmf) no.824 Top1000,170
+el apoyo,"support, backing",(nm) no.830 Top1000,171
+el presidente,president,(nm) no.831 Top1000,172
+el árbol,tree,(nm) no.833 Top1000,173
+el encuentro,"meeting, game, skirmish",(nm) no.836 Top1000,174
+el lenguaje,"language, speech",(nm) no.841 Top1000,175
+el destino,"destination, destiny",(nm) no.844 Top1000,176
+el teatro,"theater, drama",(nm) no.861 Top1000,177
+el negocio,"business, transaction",(nm) no.864 Top1000,178
+el sentimiento,"feeling, sentiment",(nm) no.867 Top1000,179
+el plano,"plane, level, map",(nm) no.875 Top1000,180
+el ritmo,rhythm,(nm) no.877 Top1000,181
+el banco,"bench, financial bank",(nm) no.881 Top1000,182
+el control,control,(nm) no.889 Top1000,183
+el verano,summer,(nm) no.893 Top1000,184
+el respeto,respect,(nm) no.894 Top1000 nb,185
+el norte,north,(nm) no.895 Top1000,186
+el pasado,past,(nm) no.902 Top1000,187
+el diario,newspaper,(nm) no.903 Top1000,188
+el peligro,"danger, menace",(nm) no.913 Top1000,189
+el oro,gold,(nm) no.914 Top1000,190
+el vino,wine,(nm) no.917 Top1000,191
+el silencio,silence,(nm) no.923 Top1000,192
+el cielo,"sky, heaven, ceiling",(nm) no.932 Top1000,193
+el límite,limit,(nm) no.934 Top1000,194
+el perro,dog,(nm) no.939 Top1000,195
+el maestro,"teacher, master",(nm) no.961 Top1000,196
+el fenómeno,phenomenon,(nm) no.966 Top1000,197
+el alumno,"student, pupil",(nm) no.969 Top1000,198
+el tono,tone,(nm) no.972 Top1000,199
+el calor,"heat, warmth",(nm) no.989 Top1000,200
+el hogar,"home, hearth",(nm) no.992 Top1000,201
+el concepto,concept,(nm) no.997 Top1000,202
+el teléfono,telephone,(nm) no.999 Top1000,203
+el escritor,writer,(nm/f) no.1011 Top1500,204
+el intento,"attempt, try",(nm) no.1012 Top1500,205
+el riesgo,risk,(nm) no.1016 Top1500,206
+el enemigo,enemy,(nm) no.1024 Top1500,207
+el idioma,language,(nm) no.1027 Top1500,208
+el compromiso,"commitment, compromise, engagement, appointment",(nm) no.1029 Top1500,209
+el comentario,"remark, comment",(nm) no.1030 Top1500,210
+el marido,husband,(nm) no.1032 Top1500,211
+el extremo,"edge, border, end",(nm) no.1036 Top1500,212
+el individuo,individual,(nm) no.1037 Top1500,213
+el contenido,"contents, content",(nm) no.1038 Top1500,214
+el corte,cut,(nmf) no.1041 Top1500,215
+el total,"sum, total",(nm) no.1043 Top1500,216
+el daño,"harm, injury, damage",(nm) no.1045 Top1500,217
+el mensaje,message,(nm) no.1047 Top1500,218
+"el pelo, el cabello",hair,(nm) no.1056 Top1500,219
+el sur,south,(nm) no.1064 Top1500,220
+el gesto,gesture,(nm) no.1065 Top1500,221
+el colegio,"high school, college",(nm) no.1073 Top1500,222
+el documento,document,(nm) no.1076 Top1500,223
+"el chico, el muchacho",boy,(nm) no.1079 Top1500,224
+el alcance,"reach, scope",(nm) no.1083 Top1500,225
+el dueño,"owner, landlord",(nm) no.1093 Top1500,226
+el vecino,neighbor ,(nm) no.1095 Top1500,227
+el sector,sector (area),(nm) no.1096 Top1500,228
+el accidente,accident,(nm) no.1098 Top1500,229
+el empleado,employee,(nm) no.1104 Top1500,230
+el matrimonio,"marriage, married couple",(nm) no.1109 Top1500,231
+el frío,cold (temperature or emotion),(nm) no.1120 Top1500,232
+el domingo,Sunday,(nm) no.1121 Top1500,233
+el acontecimiento,"event, happening",(nm) no.1125 Top1500,234
+el método,method,(nm) no.1129 Top1500,235
+el coche,"car, carriage",(nm) no.1131 Top1500,236
+el beneficio,"benefit, profit",(nm) no.1142 Top1500,237
+el alimento,"food, nourishment",(nm) no.1143 Top1500,238
+el barrio,district,(nm) no.1146 Top1500,239
+el análisis,analysis,(nm) no.1148 Top1500,240
+el ataque,"attack, raid",(nm) no.1157 Top1500,241
+el cine,cinema,(nm) no.1159 Top1500,242
+el comienzo,beginning,(nm) no.1162 Top1500,243
+el barco,boat,(nm) no.1164 Top1500,244
+el aparato,"apparatus, device",(nm) no.1168 Top1500,245
+el extranjero,foreigner,(nm) no.1171 Top1500,246
+el ruido,noise,(nm) no.1184 Top1500,247
+el consejo,advice,(nm) no.1188 Top1500,248
+el sonido,sound,(nm) no.1192 Top1500,249
+el placer,pleasure,(nm) no.1205 Top1500,250
+el objetivo,objective,(nm) no.1210 Top1500,251
+el honor,"honor, honesty",(nm) no.1211 Top1500,252
+el instante,instant,(nm) no.1215 Top1500,253
+el viento,"scent, wind",(nm) no.1216 Top1500,254
+el ejército,army,(nm) no.1218 Top1500,255
+el tren,"train, convoy",(nm) no.1220 Top1500,256
+el círculo,circle,(nm) no.1222 Top1500,257
+el político,politician,(nm/f) no.1237 Top1500,258
+el rey,king,(nm) no.1238 Top1500,259
+el ánimo,"zest, spirit, heart",(nm) no.1240 Top1500,260
+el trato,"treatment, processing, manner, agreement/contract",(nm) no.1241 Top1500,261
+el ejercicio,"exercise, practice",(nm) no.1242 Top1500,262
+el agosto,August,(nm) no.1244 Top1500,263
+el secretario,secretary,(nm/f) no.1245 Top1500,264
+el dedo,"finger, toe, digit",(nm) no.1248 Top1500,265
+el gasto,"expense, expenditure",(nm) no.1249 Top1500,266
+el café,"coffee, café",(nm) no.1250 Top1500,267
+el diálogo,"dialogue, conversation",(nm) no.1251 Top1500,268
+el discurso,"lecture, discussion",(nm) no.1254 Top1500,269
+el particular,individual,(nm) no.1260 Top1500,270
+el volumen,volume (audio),(nm) no.1274 Top1500,271
+el argumento,"argument, plot (of a story)",(nm) no.1279 Top1500,272
+el conflicto,conflict,(nm) no.1282 Top1500,273
+el avión,airplane,(nm) no.1283 Top1500,274
+el examen,examination,(nm) no.1286 Top1500,275
+el habitante,inhabitant,(nm) no.1287 Top1500,276
+el criterio,criterion,(nm) no.1292 Top1500,277
+el plazo,"deadline/term, installment (payment)",(nm) no.1295 Top1500,278
+el kilómetro,kilometer,(nm) no.1297 Top1500,279
+el hospital,hospital,(nm) no.1298 Top1500,280
+el acceso,"access, entry",(nm) no.1315 Top1500,281
+el marco,"frame/framework (legal, picture, door)",(nm) no.1316 Top1500,282
+el premio,"prize, reward",(nm) no.1337 Top1500,283
+el nacimiento,"birth, origin",(nm) no.1339 Top1500,284
+el invierno,winter,(nm) no.1340 Top1500,285
+el diciembre,December,(nm) no.1341 Top1500,286
+el comportamiento,"behavior, conduct",(nm) no.1343 Top1500,287
+el fuego,"fire, gunfire",(nm) no.1346 Top1500,288
+el puente,bridge,(nm) no.1353 Top1500,289
+el rasgo,"feature, trait",(nm) no.1355 Top1500,290
+el cuento,"story, tale",(nm) no.1357 Top1500,291
+el signo,"sign, mark",(nm) no.1359 Top1500,292
+el puerto,"port, harbor",(nm) no.1364 Top1500,293
+el remedio,"cure, solution",(nm) no.1379 Top1500,294
+el territorio,territory,(nm) no.1382 Top1500,295
+el techo,roof,(nm) no.1386 Top1500,296
+el salto,"jump, hop, skip",(nm) no.1391 Top1500,297
+el pan,bread,(nm) no.1392 Top1500,298
+el general,general,(nm) no.1400 Top1500,299
+el personal,"personnel, staff, staffing",(nm) no.1404 Top1500,300
+el indio,Indian,(nm) no.1411 Top1500,301
+el gato,cat,(nm) no.1412 Top1500,302
+el margen,"edge, margin, border, brink",(nmf) no.1413 Top1500,303
+el tratamiento,"treatment, processing",(nm) no.1418 Top1500,304
+el espectáculo,"spectacle, show",(nm) no.1420 Top1500,305
+el mayo,May,(nm) no.1422 Top1500,306
+el régimen,"regime, diet",(nm) no.1426 Top1500,307
+el empleo,"job, occupation",(nm) no.1436 Top1500,308
+el período,period (time),(nm) no.1440 Top1500,309
+el vehículo,"vehicle, car",(nm) no.1446 Top1500,310
+el enero,January,(nm) no.1449 Top1500,311
+el capítulo,chapter,(nm) no.1450 Top1500,312
+el fracaso,"failure, collapse",(nm) no.1451 Top1500,313
+el experto,expert,(nm) no.1452 Top1500,314
+el organismo,"organization, body (organism)",(nm) no.1458 Top1500,315
+el departamento,"department, apartment",(nm) no.1462 Top1500,316
+el rato,"moment, while",(nm) no.1478 Top1500,317
+el equilibrio,balance,(nm) no.1487 Top1500,318
+el fruto,"fruit, (inc result)",(nm) no.1490 Top1500,319
+el exceso,excess,(nm) no.1495 Top1500,320
+el defecto,defect,(nm) no.1497 Top1500,321
+el género,"sort, gender, genre",(nm) no.1501 Top2000,322
+el bosque,forest,(nm) no.1506 Top2000,323
+el paisaje,landscape,(nm) no.1508 Top2000,324
+el llamado,"call, calling",(nm) no.1510 Top2000,325
+el ministro,"government secretary, minister",(nm/f) no.1519 Top2000,326
+el impulso,"momentum, impetus/boost",(nm) no.1520 Top2000,327
+el comercio,"commerce, trade",(nm) no.1522 Top2000,328
+el vacío,"emptiness, void",(nm) no.1538 Top2000,329
+el procedimiento,"procedure, proceedings",(nm) no.1544 Top2000,330
+el ámbito,"sphere, scope",(nm) no.1547 Top2000,331
+el informe,report,(nm) no.1548 Top2000,332
+el pico,"beak, peak",(nm) no.1553 Top2000,333
+"el regreso, el retorno",return,(nm) no.1557 Top2000,334
+el julio,July,(nm) no.1559 Top2000,335
+el órgano,organ,(nm) no.1563 Top2000,336
+el avance,advance,(nm) no.1565 Top2000,337
+el adelanto,progress,(nm) no.1565 Top2000,338
+el soldado,soldier,(nm/f) no.1568 Top2000,339
+el clima,climate,(nm) no.1576 Top2000,340
+el automóvil,automobile,(nm) no.1578 Top2000,341
+el mal,evil,(nm) no.1580 Top2000,342
+el deber,"duty, obligation",(nm) no.1588 Top2000,343
+el progreso,progress,(nm) no.1591 Top2000,344
+el hábito,habit,(nm) no.1596 Top2000,345
+el mecanismo,mechanism,(nm) no.1599 Top2000,346
+el lujo,luxury,(nm) no.1614 Top2000,347
+el alrededor,vicinity,(nm) no.1617 Top2000,348
+el testigo,witness,(nm) no.1618 Top2000,349
+el dominio,"power, control",(nm) no.1619 Top2000,350
+el descubrimiento,discovery,(nm) no.1622 Top2000,351
+el saber,knowledge,(nm) no.1625 Top2000,352
+el salón,"hall, room",(nm) no.1637 Top2000,353
+el escenario,"stage (theatre), setting, scene (of a crime)",(nm) no.1638 Top2000,354
+el largo,length,(nm) no.1640 Top2000,355
+el hotel,hotel,(nm) no.1643 Top2000,356
+el oficio,"job, function",(nm) no.1644 Top2000,357
+el patrón,"employer, landlord, patron saint",(nm) no.1648 Top2000,358
+el pecho,"chest, breast",(nm) no.1649 Top2000,359
+el funcionario,civil servant,(nm) no.1653 Top2000,360
+el transporte,"transportation, transport",(nm) no.1657 Top2000,361
+el valle,valley,(nm) no.1663 Top2000,362
+el vuelo,flight,(nm) no.1665 Top2000,363
+el sexo,sex,(nm) no.1667 Top2000,364
+el grito,"cry, shout, scream",(nm) no.1671 Top2000,365
+el reflejo,reflection (reflected image),(nm) no.1675 Top2000,366
+el abogado,lawyer,(nm/f) no.1680 Top2000,367
+el reloj,"clock, watch",(nm) no.1685 Top2000,368
+el octubre,October,(nm) no.1688 Top2000,369
+el ingreso,"entrance fee, admission fee, income",(nm) no.1690 Top2000,370
+el dibujo,"drawing, sketch",(nm) no.1692 Top2000,371
+el hueso,bone,(nm) no.1695 Top2000,372
+el militar,"soldier, military person",(nm) no.1697 Top2000,373
+el motor,"engine, motor",(nm) no.1698 Top2000,374
+el patio,"courtyard, playground, yard",(nm) no.1700 Top2000,375
+el ideal,"ideal, goal",(nm) no.1702 Top2000,376
+el actor,actor,(nm) no.1705 Top2000,377
+el traje,"suit, dress, costume",(nm) no.1710 Top2000,378
+"el trabajador, el obrero","worker, laborer",(nm/f) no.1714 Top2000,379
+el hierro,iron,(nm) no.1716 Top2000,380
+el febrero,February,(nm) no.1722 Top2000,381
+el símbolo,symbol,(nm) no.1723 Top2000,382
+el espejo,mirror,(nm) no.1730 Top2000,383
+el cerebro,brain,(nm) no.1734 Top2000,384
+el tiro,"throw, shot",(nm) no.1737 Top2000,385
+el abuelo,grandfather,(nm) no.1740 Top2000,386
+el sujeto,"subject, individual",(nm) no.1748 Top2000,387
+el permiso,"permission, permit",(nm) no.1753 Top2000,388
+el tío,"uncle, guy",(nm) no.1755 Top2000,389
+el parque,park,(nm) no.1760 Top2000,390
+el ingeniero,engineer,(nm/f) no.1761 Top2000,391
+el borde,edge,(nm) no.1763 Top2000,392
+el entusiasmo,enthusiasm,(nm) no.1765 Top2000,393
+el sueldo,salary,(nm) no.1770 Top2000,394
+el seno,"breast, bosom, cavity, gulf",(nm) no.1776 Top2000,395
+el canto,"singing, chant",(nm) no.1778 Top2000,396
+el crimen,"crime, murder",(nm) no.1783 Top2000,397
+el ciudadano,citizen,(nm) no.1787 Top2000,398
+el baño,"bathroom, bath, swim",(nm) no.1789 Top2000,399
+el reconocimiento,"recognition, acknowledgment",(nm) no.1794 Top2000,400
+el exterior,"exterior, outside",(nm) no.1795 Top2000,401
+el crédito,"credit, reputation",(nm) no.1799 Top2000,402
+el canal,"channel, canal",(nm) no.1804 Top2000,403
+el pago,payment,(nm) no.1807 Top2000,404
+el lector,"reader, lecturer",(nm) no.1810 Top2000,405
+el triunfo,"triumph, victory",(nm) no.1813 Top2000,406
+el sábado,Saturday,(nm) no.1816 Top2000,407
+"el pájar, el ave",bird,(nm) no.1824 Top2000,408
+el continente,continent,(nm) no.1831 Top2000,409
+el ensayo,"essay, rehearsal",(nm) no.1835 Top2000,410
+el plato,"plate, dish",(nm) no.1836 Top2000,411
+el jardín,garden,(nm) no.1837 Top2000,412
+el privilegio,privilege,(nm) no.1843 Top2000,413
+el monte,mountain,(nm) no.1844 Top2000,414
+el sacrificio,sacrifice,(nm) no.1848 Top2000,415
+el hilo,"thread, yarn, wire",(nm) no.1851 Top2000,416
+el poema,poem,(nm) no.1855 Top2000,417
+el diente,"tooth, cog",(nm) no.1859 Top2000,418
+el primo,cousin,(nm) no.1860 Top2000,419
+el castigo,"punishment, penalty",(nm) no.1867 Top2000,420
+el carro,"car, cart",(nm) no.1871 Top2000,421
+el aumento,rise (increase),(nm) no.1873 Top2000,422
+el dólar,dollar,(nm) no.1878 Top2000,423
+el locale,locale,(nm) no.1880 Top2000,424
+el caballero,"gentleman, knight",(nm) no.1885 Top2000,425
+el humor,"mood/temperament, humor",(nm) no.1889 Top2000,426
+el cálculo,"calculation, calculus",(nm) no.1897 Top2000,427
+el huevo,egg,(nm) no.1900 Top2000,428
+el crecimiento,growth (increase),(nm) no.1902 Top2000,429
+el prestigio,prestige,(nm) no.1908 Top2000,430
+el cuello,"neck, collar",(nm) no.1920 Top2000,431
+el abril,April,(nm) no.1922 Top2000,432
+el factor,"factor, cause, influence",(nm) no.1925 Top2000,433
+el hombro,shoulder,(nm) no.1927 Top2000,434
+el descanso,"rest, interval, break",(nm) no.1930 Top2000,435
+el zapato,shoe,(nm) no.1932 Top2000,436
+el parecer,"opinion, view",(nm) no.1933 Top2000,437
+el familiar,relative,(nm) no.1934 Top2000,438
+el mérito,"worth, merit",(nm) no.1935 Top2000,439
+el muro,"outer wall, rampart",(nm) no.1942 Top2000,440
+el montón,"lot of, heap, pile",(nm) no.1946 Top2000,441
+el disco,"disc, disk, record",(nm) no.1948 Top2000,442
+el mueble,piece of furniture,(nm) no.1952 Top2000,443
+el desastre,disaster,(nm) no.1953 Top2000,444
+el secreto,secret,(nm) no.1954 Top2000,445
+el significado,meaning,(nm) no.1966 Top2000,446
+el palacio,palace,(nm) no.1968 Top2000,447
+el oído,"hearing, ear",(nm) no.1969 Top2000,448
+el polvo,"dust, powder",(nm) no.1971 Top2000,449
+el sacerdote,priest,(nm) no.1974 Top2000,450
+el olor,"smell, odor, fragrance",(nm) no.1986 Top2000,451
+el contrato,"contract, agreement",(nm) no.1989 Top2000,452
+el revés,"backwards, upside down, inside out",(nm) no.1993 Top2000,453
+el índice,"index, forefinger",(nm) no.2000 Top2000,454

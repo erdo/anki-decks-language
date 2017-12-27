@@ -1,0 +1,119 @@
+		
+Irregular Verbs:
+----------------
+
+
+
+to be:		past	present	future		past perfect	present perfect		future perfect		past cont.		present cont.	future cont.	past perf. cont.	present perf. cont.	future perf. cont.
+			----	----	----		----			----				----				----			----			----			----				----				---
+I			was		am		will be		had been		have been			will have been		was being		am being		will be being	had been being		have been being		will have been being
+he/she/it	was		is		will be		had been		has	been			will have been		was being		is being		will be being	had been being		has been being		will have been being
+you/we/they	were	are		will be		had been		have been			will have been		were being		are being		will be being	had been being		have been being		will have been being
+
+
+
+to have:	past	present	future		past perfect	present perfect		future perfect		past cont.		present cont.	future cont.	past perf. cont.	present perf. cont.	future perf. cont.
+			----	----	----		----			----				----				----			----			----			----				----				---
+I			had		have	will have	had had			have had			will have had		was having		am having		will be having	had been having		have been having	will have been having	
+he/she/it	had		has		will have	had had			has had				will have had		was having		is having		will be having	had been having		has been having		will have been having
+you/we/they	had		have	will have	had had			have had			will have had		were having		are having		will be having	had been having		have been having	will have been having
+
+		
+		
+		
+		
+Regular Verbs:
+--------------
+		
+		
+
+to jump:	past	present	future		past perfect	present perfect		future perfect		past cont.		present cont.	future cont.	past perf. cont.	present perf. cont.	future perf. cont.
+			----	----	----		----			----				----				----			----			----			----				----				---
+I			jumped	jump	will jump	had jumped		have jumped			will have jumped	was jumping		am jumping		will be jumping	had been jumping	have been jumping	will have been jumping	
+he/she/it	jumped	jumps	will jump	had jumped		has jumped			will have jumped	was jumping		is jumping		will be jumping	had been jumping	has been jumping	will have been jumping
+you/we/they	jumped	jump	will jump	had jumped		have jumped			will have jumped	were jumping	are jumping		will be jumping	had been jumping	have been jumping	will have been jumping
+
+
+
+to look:	past	present	future		past perfect	present perfect		future perfect		past cont.		present cont.	future cont.	past perf. cont.	present perf. cont.	future perf. cont.
+			----	----	----		----			----				----				----			----			----			----				----				---
+I			looked	look	will look	had looked		have looked			will have looked	was looking		am looking		will be looking	had been looking	have been looking	will have been looking	
+he/she/it	looked	looks	will look	had looked		has looked			will have looked	was looking		is looking		will be looking	had been looking	has been looking	will have been looking
+you/we/they	looked	look	will look	had looked		have looked			will have looked	were looking	are looking		will be looking	had been looking	have been looking	will have been looking
+
+
+
+
+
+		
+<table>
+<tr>
+<th></th>
+<th>past</th>
+<th>present</th>
+</tr>
+<tr>
+<td>I</td>
+<td>
+
+looked
+
+</td>
+<td>
+
+look
+
+</td>
+</tr>
+<tr>
+<td>he/she/it</td>
+<td>
+
+looked
+
+</td>
+<td>
+
+looks
+
+</td>
+</tr>
+<tr>
+<td>you/we/they</td>
+<td>
+
+looked
+
+</td>
+<td>
+
+x
+
+</td>
+</tr>
+</table>
+<br>
+perfect:
+
+
+x
+
+
+
+
+<br>
+
+
+
+continuous:
+
+
+
+x
+
+
+
+<br>
+
+
+
